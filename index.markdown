@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+*Hark at the Park: A Harvey Family Christmas* is an annual musical event and fundraiser
+benefitting the Hamilton Street Resource Center and Magness Library in McMinnville, TN.
+
+[Donate now!](/donate/)
