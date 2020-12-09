@@ -7,7 +7,7 @@ layout: home
 
 <div class="tags">
 
-    <div class="tag-container">
+    <div class="tag-container" onClick="this.firstElementChild.style.transform = 'rotateY(180deg)';">
         <div class="tag">
 
             <div class="tag-side tag-1-side">
@@ -29,7 +29,7 @@ layout: home
         </div>
     </div>
 
-    <div class="tag-container">
+    <div class="tag-container" onClick="this.firstElementChild.style.transform = 'rotateY(180deg)';">
         <div class="tag">
 
             <div class="tag-side tag-2-side">
@@ -49,7 +49,7 @@ layout: home
         </div>
     </div>
 
-    <div class="tag-container">
+    <div class="tag-container" onClick="this.firstElementChild.style.transform = 'rotateY(180deg)';">
         <div class="tag">
 
             <div class="tag-side tag-3-side">
