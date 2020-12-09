@@ -4,7 +4,7 @@ title: Donate
 permalink: /donate/
 ---
 
-There are two ways to give to Hark at the Park. All congributions are tax deductible.
+There are two ways to give to Hark at the Park. All contributions are tax deductible.
 
 # Online
 
