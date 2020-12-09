@@ -5,11 +5,6 @@
 layout: home
 ---
 
-*Hark at the Park: A Harvey Family Christmas* is an annual musical event and fundraiser
-benefitting the Hamilton Street Resource Center and Magness Library in McMinnville, TN.
-
-[Donate now!](/donate/)
-
 <div class="tags">
 
     <div class="tag-container">
@@ -46,7 +41,7 @@ benefitting the Hamilton Street Resource Center and Magness Library in McMinnvil
 
             <div class="tag-side tag-2-side is-back">
                 <div class="tag-text tag-2-text">
-                    Joe Harvey
+                    Pacey Tate
                     <div class="rule-diagonal"></div>
                 </div>
             </div>
@@ -59,14 +54,14 @@ benefitting the Hamilton Street Resource Center and Magness Library in McMinnvil
 
             <div class="tag-side tag-3-side">
                 <div class="tag-text tag-3-text">
-                    With special<br />guest...
+                    With special<br />guests...
                     <div class="rule-shape">&#10052;</div>
                 </div>
             </div>
 
             <div class="tag-side tag-3-side is-back">
                 <div class="tag-text tag-3-text">
-                    Cat Grizzle
+                    Cat Grizzle<br />&amp;<br />Joe Harvey
                     <div class="rule-shape">&#10052;</div>
                 </div>
             </div>
