@@ -24,7 +24,7 @@ description: >-
   An annual musical show and fundraiser for the Hamilton Street Resource Center and Magness 
   Library in McMinnville, Tennessee
 baseurl: ""
-url: "http://harkatthepark.com"
+url: "https://harkatthepark.com"
 facebook_username: HarkAtThePark
 
 # Build settings
@@ -39,7 +39,7 @@ defaults:
       path: "assets/img"
     values:
       image: true
-      
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
