@@ -18,6 +18,11 @@
       z-index: 1;
     }
 
+    .site-header {
+      border-top: none;
+      border-bottom: none;
+    }
+
     .site-title {
       font-family: 'Sacramento', cursive;
       font-size: 42px;
@@ -29,9 +34,40 @@
       text-decoration: none;
     }
 
-    .site-header {
-      border-top: none;
-      border-bottom: none;
+    .site-nav {
+      line-height: 36px;
+    }
+
+    .site-nav .page-link {
+      color: #fff;
+    }
+
+    .trigger {
+      left: 50%;
+      top: 50%;
+      z-index: 5000;
+      margin-top: 16px;
+      padding: 0 10px;
+      font-size: 18px;
+      border: 1px solid #0a593d;
+      outline: none;
+      cursor: pointer;
+      background: #34A65F;
+      background: -moz-linear-gradient(top,  #34A65F 0%, #0F8A5F 100%);
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#34A65F), color-stop(100%,#0F8A5F));
+      background: -webkit-linear-gradient(top,  #34A65F 0%,#0F8A5F 100%);
+      background: -o-linear-gradient(top,  #34A65F 0%,#0F8A5F 100%);
+      background: -ms-linear-gradient(top,  #34A65F 0%,#0F8A5F 100%);
+      background: linear-gradient(to bottom,  #34A65F 0%,#0F8A5F 100%);
+      -webkit-border-radius: 13px;
+        -moz-border-radius: 13px;
+          border-radius: 13px;
+      -webkit-box-shadow: 0 1px 3px rgba(0,0,0,.5), inset 0 1px 0 rgba(255,255,255,.25);
+        -moz-box-shadow: 0 1px 3px rgba(0,0,0,.5), inset 0 1px 0 rgba(255,255,255,.25);
+          box-shadow: 0 1px 3px rgba(0,0,0,.5), inset 0 1px 0 rgba(255,255,255,.25);
+    }
+    .trigger:hover, .trigger:active {
+      opacity: 0.8;
     }
 
     .site-footer {
