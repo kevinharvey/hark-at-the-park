@@ -20,7 +20,7 @@ target="_top">
     height="1" />
 </form>
 
-Donations can be made via credit card. No fee if you use your PayPal balance or 
+Donations can be made via credit card. No fee if you use your PayPal balance. 
 
 
 # By Check
