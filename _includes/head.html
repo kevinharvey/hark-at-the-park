@@ -11,6 +11,7 @@
   <style type="text/css">
     body {
       background-color: #CC231E;
+      font-family: Verdana, sans;
     }
 
     header, main, footer {
@@ -31,6 +32,10 @@
     .site-header {
       border-top: none;
       border-bottom: none;
+    }
+
+    .site-footer {
+      background-color: #ffffff
     }
 
     *, *:after, *:before {
@@ -69,8 +74,7 @@
         transition: transform 1s, -webkit-transform 1s;
     }
 
-    .tag-container:hover .tag,
-    .tag-container:active .tag {
+    .tag-container:hover .tag {
         -webkit-transform: rotateY(180deg);
         transform: rotateY(180deg);
     }
