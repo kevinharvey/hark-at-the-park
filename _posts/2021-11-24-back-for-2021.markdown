@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Hark at the Park 2021 Set For December 17"
+date:   2021-11-24 15:11:50 -0600
+---
+We're back for another year of Christmas favorites. This year's Hark at the Park is
+happening <strong>live and in-person</strong> on Friday, December 17 at 7 p.m. Central. 
+You can buy tickets [online][ticket-page], by calling 
+<a href="tel:+1-931-473-2428">(931) 473-2428</a>, or in person at the Magness Library, 
+118 W Main St, McMinnville, TN 37110.
+
+Hark at the Park is a fundraiser benefiting the Hamilton Street Activity Center and 
+Magness Library in McMinnville, Tennessee. Please consider [making a donation][donate-page]
+to support these great causes. 
+
+[donate-page]: /donate/
+[ticket-page]: /tickets/
