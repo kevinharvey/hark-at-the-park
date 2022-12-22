@@ -6,4 +6,4 @@ layout: home
 list_title: Updates
 ---
 
-<iframe width="100%" height="416" src="https://www.youtube.com/embed/HxHOCwoRnvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="416" src="https://www.youtube.com/embed/sCbE1OMjmqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
